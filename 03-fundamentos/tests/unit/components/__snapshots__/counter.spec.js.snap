@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Counter Component Debe ser igual a la captura 1`] = `
+<h2>Counter</h2>
+<p>100 <sup>2</sup> = 10000</p>
+<div>
+  <!-- <button v:on-click="increase">+1</button>
+      <button v:on-click="decrease">-1</button> --><button>+1</button><button>-1</button>
+</div>
+`;
