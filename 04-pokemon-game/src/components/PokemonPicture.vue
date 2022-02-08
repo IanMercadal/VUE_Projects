@@ -36,6 +36,7 @@ export default {
 
 // Scoped mantendrá los estilos en este archivo
 <style scoped>
+
 /* Pokemon Picture */
 .pokemon-container {
     height: 200px;
