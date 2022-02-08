@@ -2,7 +2,7 @@
 
     <h1 v-if="!pokemon">Espere por favor</h1>
 
-    <div v-else>
+    <div v-else class="pokedex">
           <h1>¿Quién es este Pokémon?</h1>
 
         <PokemonPicture 
